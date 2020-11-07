@@ -25,4 +25,4 @@
 🍓🍉🍇</li>
 <li align="center" class="menu">Орехи:
 🌰🥜</li>
-<p align="center" class="menu">Заказ можно зделать в нашем <a class="link" href="https://invite.viber.com/?g2=AQBLCKQ%2FWQGzg0xnT6IIVZ8eaGRQe%2B%2FjbhaFarEpCeMh3L5VlEcPatY%2FsZXoB%2FUN">Viber <a>, <a class="link" href="https://discord.gg/WxYQrAwCE6">Discord </a>и </p><a href="https://t.me/joinchat/MhCmtUmkWTPrEr1wkz-2rg">Telegram</a>
+<p align="center" class="menu">Заказ можно зделать в нашем <a class="link" href="https://invite.viber.com/?g2=AQBLCKQ%2FWQGzg0xnT6IIVZ8eaGRQe%2B%2FjbhaFarEpCeMh3L5VlEcPatY%2FsZXoB%2FUN">Viber <a>, <a class="link" href="https://discord.gg/WxYQrAwCE6">Discord </a>и <a href="https://t.me/joinchat/MhCmtUmkWTPrEr1wkz-2rg">Telegram</a>
